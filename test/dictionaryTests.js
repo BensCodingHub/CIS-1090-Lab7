@@ -10,7 +10,7 @@ const searches = {
     "Indexed": indexed,
     
     //❓ Question 7, uncomment the following line.
-    //"Binary": binary
+    "Binary": binary
 }
 
 const goodWords = [
